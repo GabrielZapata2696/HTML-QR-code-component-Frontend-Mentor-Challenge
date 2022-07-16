@@ -24,7 +24,7 @@ Vista Desktop del desafio
 ### Links
 
 - Github: [Repository] (https://github.com/GabrielZapata2696/HTML-QR-code-component-Frontend-Mentor-Challenge)
-- Netlify: [Live project] (https://your-live-site-url.com)
+- Netlify: [Live project] (https://wonderful-sunburst-e454a2.netlify.app)
 
 ## My process
 
