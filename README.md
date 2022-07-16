@@ -17,9 +17,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
+- Vista Desktop del desafio
+
 ![Solucion](./screenshot/desktop-screenshot.png)
 
-Vista Desktop del desafio
+- Vista Desktop del desafio
+
+![Solucion](./screenshot/mobile-screenshot.png)
 
 ### Links
 
@@ -45,7 +49,9 @@ Puedo considerar que el objetivo principal es realizar la estructura html bajo e
 
 ### Useful resources
 
-- [W3School](https://www.w3schools.com/cssref/pr_text_text-align.ASP) - Esta guía me ayudó a recordar el uso y semantica de la propiedad text-align para los estilos.
+- [W3School - Text-align](https://www.w3schools.com/cssref/pr_text_text-align.ASP) - Esta guía me ayudó a recordar el uso y semantica de la propiedad text-align para los estilos.
+
+- [W3School - Media Queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp) - Este articulo presenta una guía acerca de los Media Queries enfocados al responsive web design.
 
 ## Author
 
